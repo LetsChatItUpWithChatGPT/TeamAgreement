@@ -9,7 +9,7 @@
  - Hayden :Utilization of prior experience inside of project management to allow for a proper flow and progression of the project and utilization of a team flow method that has set goals, deadlines, and approval of the work done for each day.
  - Kao : Analytical thinking, problem-solving, attention to detail, and business acumen.
  - Kenya : team player, open to communication, love learning
- - Reece : collaboration, listening, critical thinking, supportive attitude
+ - Reece : Collaboration, listening, critical thinking, supportive attitude, grit
  - Tricia :  adaptability, attention to detail, collaboration
  
     How can you best utilize these strengths in the execution of your project?
