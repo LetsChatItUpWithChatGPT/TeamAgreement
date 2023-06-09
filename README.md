@@ -69,6 +69,11 @@
 
 ## Work Plan
  
-    How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
-    What project management tool will be used?
+  How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+  
+  - We will use our project board to generate TODOs and allow for us to keep track of how long different features will be taking and where we might need to push more resources in to.
+  
+  What project management tool will be used?
+  
+  - We will be using GitHub project board so we have all of our tracking board and repos in the same location.
 
