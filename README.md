@@ -8,7 +8,7 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :team player, open to communication, love learning
+ - Kenya : team player, open to communication, love learning
  - Reece : collaboration, listening, critical thinking, supportive attitude
  - Tricia :
  
@@ -17,7 +17,7 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :to work with the team in the best way possible
+ - Kenya : to work with the team in the best way possible
  - Reece : be supportive of everyone on the team when we hit walls throughout the project.
  - Tricia :
     
@@ -26,13 +26,13 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :sequel, mongo
+ - Kenya : sequel, mongo
  - Reece : want to develop my technical jargon to match with the material we will be using
  - Tricia :
   
     Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
     
- - 
+ - Daily meetings will help in guiding who is going to be doing what portions of the project.  This coupled with the project board through GitHub will help maintain our workflow and who is in charge of what for each day as we pair program.
 
 
 ## Conflict Plan
