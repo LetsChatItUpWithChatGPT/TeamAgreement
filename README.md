@@ -9,7 +9,7 @@
  - Hayden :
  - Kao :
  - Kenya :team player, open to communication, love learning
- - Reece :
+ - Reece : collaboration, listening, critical thinking, supportive attitude
  - Tricia :
  
     How can you best utilize these strengths in the execution of your project?
@@ -18,7 +18,7 @@
  - Hayden :
  - Kao :
  - Kenya :to work with the team in the best way possible
- - Reece :
+ - Reece : be supportive of everyone on the team when we hit walls throughout the project.
  - Tricia :
     
     In which professional competencies do you each want to develop greater strength?
@@ -27,7 +27,7 @@
  - Hayden :
  - Kao :
  - Kenya :sequel, mongo
- - Reece :
+ - Reece : want to develop my technical jargon to match with the material we will be using
  - Tricia :
   
     Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
