@@ -1,7 +1,8 @@
-# TeamAgreement
+# Team Agreement
 
 
-## Cooperation Plan: Donna Ada, Hayden Cooper, Kao Saelor, Kenya Womack, Reece Renninger, Tricia Sawyer
+## Cooperation Plan: 
+## Donna Ada, Hayden Cooper, Kao Saelor, Kenya Womack, Reece Renninger, Tricia Sawyer
 
 **What are the key strengths of each person on the team?**
    
