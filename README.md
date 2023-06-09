@@ -55,7 +55,7 @@
    - Set realistic expectations for each other on how we will contribute and at a reasonable pace.  We are developers, but we are still learning a lot of things we will be working with.  So keeping that in mind with how we model who is doing what, will help prevent this.
 
    How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-
+   - Since we are on such a short time period to accomplish our project, if something has not been able to resolved within a 24 hour period, we will reach out to our instructor, Ryan Gallaway, for assistance in navigating through the problem.
 
 ## Communication Plan
 
