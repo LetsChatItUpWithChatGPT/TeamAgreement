@@ -5,7 +5,7 @@
 
    What are the key strengths of each person on the team?
    
- - Donna : 
+ - Donna : [placeholder text for Donna's input]
  - Hayden :
  - Kao :
  - Kenya : team player, open to communication, love learning
@@ -14,7 +14,7 @@
  
     How can you best utilize these strengths in the execution of your project?
     
- - Donna : 
+ - Donna : [placeholder text for Donna's input]
  - Hayden :
  - Kao :
  - Kenya : to work with the team in the best way possible
@@ -23,7 +23,7 @@
     
     In which professional competencies do you each want to develop greater strength?
     
- - Donna : 
+ - Donna : [placeholder text for Donna's input]
  - Hayden :
  - Kao :
  - Kenya : sequel, mongo
