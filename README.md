@@ -59,13 +59,31 @@
 
 ## Communication Plan
 
-    What hours will you be available to communicate?
-    What platforms will you use to communicate (ie. Slack, phone …)?
-    How often will you take breaks?
-    What is your plan if you start to fall behind?
-    How will you communicate after hours and on the weekend?
-    What is your strategy for ensuring everyone’s voice is heard?
-    How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+   What hours will you be available to communicate?
+   
+   - Given we are on varying time zones with some of us actually into the next day due to this, we will be trying to stay within our normal core hours that everyone has already worked out in their lives to be available.
+   
+   What platforms will you use to communicate (ie. Slack, phone …)?
+   
+   - We will primarily be using Slack for group communication, we have created our own group chat.
+   
+   How often will you take breaks?
+   
+   - We plan to stay in line with our class breaks.
+   
+   What is your plan if you start to fall behind?
+   
+   - If we begin to fall behind, we will look at what is pulling the project behind our deadline and come together to either address the problem together or adjust what our MVP is going to be.
+   
+   How will you communicate after hours and on the weekend?
+   
+   - We will respect each other's established work times that we agreed to upon the project start.
+   
+   What is your strategy for ensuring everyone’s voice is heard?
+   
+   - Daily meetings and pair programming rotations as features are completed.
+   
+   How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
 ## Work Plan
  
