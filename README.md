@@ -8,7 +8,7 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :
+ - Kenya :team player, open to communication, love learning
  - Reece :
  - Tricia :
  
@@ -17,7 +17,7 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :
+ - Kenya :to work with the team in the best way possible
  - Reece :
  - Tricia :
     
@@ -26,7 +26,7 @@
  - Donna : 
  - Hayden :
  - Kao :
- - Kenya :
+ - Kenya :sequel, mongo
  - Reece :
  - Tricia :
   
