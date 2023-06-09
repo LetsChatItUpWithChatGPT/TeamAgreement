@@ -10,7 +10,7 @@
  - Kao :
  - Kenya : team player, open to communication, love learning
  - Reece : collaboration, listening, critical thinking, supportive attitude
- - Tricia :
+ - Tricia :  adaptability, attention to detail, collaboration
  
     How can you best utilize these strengths in the execution of your project?
     
@@ -19,7 +19,7 @@
  - Kao :
  - Kenya : to work with the team in the best way possible
  - Reece : be supportive of everyone on the team when we hit walls throughout the project.
- - Tricia :
+ - Tricia : communicating well to team members, working together to tackle features, and being able to pivot with the challenges we may face. 
     
     In which professional competencies do you each want to develop greater strength?
     
@@ -28,7 +28,7 @@
  - Kao :
  - Kenya : sequel, mongo
  - Reece : want to develop my technical jargon to match with the material we will be using
- - Tricia :
+ - Tricia : ambiguity and confidence in myself, to trust my gut
   
     Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
     
