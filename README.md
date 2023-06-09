@@ -97,3 +97,38 @@
   
   - We will be using GitHub project board so we have all of our tracking board and repos in the same location.
 
+## Git Process
+
+
+   What components of your project will live on GitHub?
+   
+   -
+   
+   How will you share the repository with your teammates?
+     
+   -
+   
+   What is your Git flow?
+     
+   -
+   
+   Will you be using a PR review workflow? If so, consider:
+   
+   How many people must review a PR?
+          
+   -
+   
+   Who merges PRs?
+          
+   -
+   
+   How often will you merge?
+      
+   -
+   
+   How will you communicate that it’s time to merge?
+          
+   -
+   
+
+
