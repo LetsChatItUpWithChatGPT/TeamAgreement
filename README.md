@@ -84,6 +84,8 @@
    - Daily meetings and pair programming rotations as features are completed.
    
    How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+   
+   - Keep the psychological safety standards we learned in our previous class in mind at all portions of development.  Our daily meetings will allow for everyone to voice their concerns or plans for the day and hopefully it'll allow for us to be able connect on a personal level as well.
 
 ## Work Plan
  
