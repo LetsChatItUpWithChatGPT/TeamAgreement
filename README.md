@@ -102,33 +102,33 @@
 
    What components of your project will live on GitHub?
    
-   -
+   - Since we are only working on backend for this project we will have all the components living on GitHub that we can.  However, we will need to expand on our problem domain so this may change if we need to alter our idea to match the requests of the client.
    
    How will you share the repository with your teammates?
      
-   -
+   - We are all a part of the LetsChatItUpWithChatGPT organization and have admin access.
    
    What is your Git flow?
      
-   -
+   - We will protect our main branch with 2 person authentication that DID NOT submit the merge request to main.  We will all work paired programming to resolve features in their own branches to allow for clean code editing and understanding of who was working on what at any given time.
    
    Will you be using a PR review workflow? If so, consider:
    
    How many people must review a PR?
           
-   -
+   - 2 people who did not submit the PR will have to review as protection on the main branch
    
    Who merges PRs?
           
-   -
+   - Any of us will be able to after reviews.
    
    How often will you merge?
       
-   -
+   - We will only merge with feature completion, however if the feature is large and multi-staged we could merge multiple times at succesful testing periods.
    
    How will you communicate that it’s time to merge?
           
-   -
+   - Daily meeting or during work days if we have a large feature added that is fully functioning. We will be together while working so this may be done through Remo or Slack message.
    
 
 
