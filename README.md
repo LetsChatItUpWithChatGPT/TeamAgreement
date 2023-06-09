@@ -39,20 +39,22 @@
 
    What will be your group’s process to resolve conflict, when it arises?
     
-  - 
+  - Approach the conflict respectfully with psychological safety in mind.  Figure out where the root of the problem or concern is coming from and figure out a plan to resolve it.
 
    What will your team do if one person is taking over the project and not letting the other members contribute?
     
-   -
-    How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
+   - Come together as a team and inform that individual how their actions are affecting the team as whole.  Try to come up with a better way to break up the work into sections to prevent someone from
+     hijacking the entire project.
+     
+   How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
     
-    -
+   - Utilize each other's strengths in different areas of coding.  We all are on different levels in different areas and helping one another in those weaker areas is what will increase our learning across the board and help us navigate through all the different challenges.
 
-    How will you raise concerns to members who are not adequately contributing?
+   How will you raise concerns to members who are not adequately contributing?
     
-    -
+   - Set realistic expectations for each other on how we will contribute and at a reasonable pace.  We are developers, but we are still learning a lot of things we will be working with.  So keeping that in mind with how we model who is doing what, will help prevent this.
 
-    How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+   How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
 
 ## Communication Plan
