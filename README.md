@@ -7,7 +7,7 @@
    
  - Donna : [placeholder text for Donna's input]
  - Hayden :Utilization of prior experience inside of project management to allow for a proper flow and progression of the project and utilization of a team flow method that has set goals, deadlines, and approval of the work done for each day.
- - Kao :
+ - Kao : Analytical thinking, problem-solving, attention to detail, and business acumen.
  - Kenya : team player, open to communication, love learning
  - Reece : collaboration, listening, critical thinking, supportive attitude
  - Tricia :  adaptability, attention to detail, collaboration
@@ -16,7 +16,7 @@
     
  - Donna : [placeholder text for Donna's input]
  - Hayden : Project Management and team organization
- - Kao :
+ - Kao : Leverage critical thinking, finding solutions, and meticulousness to ensure project success.
  - Kenya : to work with the team in the best way possible
  - Reece : be supportive of everyone on the team when we hit walls throughout the project.
  - Tricia : communicating well to team members, working together to tackle features, and being able to pivot with the challenges we may face. 
@@ -25,7 +25,7 @@
     
  - Donna : [placeholder text for Donna's input]
  - Hayden : Commination, Team resolution, and leadership
- - Kao :
+ - Kao : Effective communication with teammates and improve public speaking
  - Kenya : sequel, mongo
  - Reece : want to develop my technical jargon to match with the material we will be using
  - Tricia : ambiguity and confidence in myself, to trust my gut
