@@ -6,7 +6,7 @@
 
 **What are the key strengths of each person on the team?**
    
- - Donna : [placeholder text for Donna's input]
+ - Donna : Team Player, adaptability, collaboration
  - Hayden :Utilization of prior experience inside of project management to allow for a proper flow and progression of the project and utilization of a team flow method that has set goals, deadlines, and approval of the work done for each day.
  - Kao : Analytical thinking, problem-solving, attention to detail, and business acumen.
  - Kenya : team player, open to communication, love learning
@@ -15,7 +15,7 @@
  
 **How can you best utilize these strengths in the execution of your project?**
     
- - Donna : [placeholder text for Donna's input]
+ - Donna : To help the team tackle problems together and help to the overall success of the project
  - Hayden : Project Management and team organization
  - Kao : Leverage critical thinking, finding solutions, and meticulousness to ensure project success.
  - Kenya : to work with the team in the best way possible
@@ -24,7 +24,7 @@
     
 **In which professional competencies do you each want to develop greater strength?**
     
- - Donna : [placeholder text for Donna's input]
+ - Donna : Want to get better at backend logic.
  - Hayden : Commination, Team resolution, and leadership
  - Kao : Effective communication with teammates and improve public speaking
  - Kenya : sequel, mongo
